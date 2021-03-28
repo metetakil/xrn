@@ -1,3 +1,13 @@
+#
+
+Please use these 2 users for testing:
+
+Username: Jon
+Password: 123
+
+Username: Mete
+Password: 456
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
